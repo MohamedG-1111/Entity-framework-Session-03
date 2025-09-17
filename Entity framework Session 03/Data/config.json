@@ -1,0 +1,3 @@
+﻿{
+  "constr": "Server=.;Database=AirLineTask03;Integrated Security=SSPI;TrustServerCertificate=True"
+}
